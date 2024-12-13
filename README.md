@@ -6,4 +6,5 @@ sorting lists and calculating distance between them puzzle.
 
 ##### First Part:
 
-![](attachment/29e48644191732a6abf64772100e47c5.png)
+
+![[Screen Shot 2024-12-13 at 6.28.05 PM.png]]
