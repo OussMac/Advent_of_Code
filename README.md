@@ -6,4 +6,4 @@ sorting lists and calculating distance between them puzzle.
 
 ##### First Part:
 
-![[caead2c105028cd2acde38e898775d50.png]]
+![](attachment/caead2c105028cd2acde38e898775d50.png)
